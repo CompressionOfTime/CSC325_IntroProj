@@ -7,10 +7,10 @@ public class HelloController {
     @FXML
     private Label welcomeText;
 
-    // new line 2
+    // new line
 
     @FXML
     protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to JavaFX Application!");
+        welcomeText.setText("Welcome Natalie!");
     }
 }
